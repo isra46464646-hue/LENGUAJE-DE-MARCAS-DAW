@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantilla</title>
+    <meta name="description" content="Esto es ejercicio marcado basico">
+    <meta name="keywords" content="html, ejercicio, ejercicio1, ejemplo">
+    <meta name="author" content="Juan Profesor">
+    <meta name="application-name" content="ejercicio marcado basico">
+    <meta name="generator" content="VSCode">
+</head>
+<body>
+    <h1>Ejercicio para los que han venido</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, animi eius! Delectus impedit veritatis corporis modi itaque deserunt distinctio adipisci sunt fuga, illo illum aspernatur. Saepe odit nulla laudantium fugit.</p>
+    <p>Lorem ipsum dolor sit amet <acronym title="sta es la definicion del primer ejemplo">BOMBI</acronym>consectetur adipisicing elit. Veniam similique nisi voluptate sapiente quis provident error ullam ab non nesciunt maiores expedita quos nobis, architecto debitis reiciendis? Numquam, totam aliquid.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente beatae obcaecat<dfn title="Segundo ejemplo de definicion">BOMBI23</dfn> temporibus delectus, asperiores, at harum, quasi aliquid assumenda modi voluptatibus. Mollitia rem voluptatum officia temporibus quo nam. Repudiandae, iusto.</p>
+    <blockquote>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nisi ullam at temporibus nesciunt eligendi labore iusto, officiis expedita qui, delectus doloribus tempore voluptatibus sunt cupiditate vel vitae non esse!</blockquote>
+</body>
+</html>
